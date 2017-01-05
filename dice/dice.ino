@@ -1,3 +1,10 @@
+/**************
+@file     dice.ino
+@author   F. Sleeman
+
+Parts of this code was used or modified from the Adafruit 8x8 LED matrix and MMA8451 breakout board example code.
+*****************/
+
 #include <Wire.h>
 
 #define HT16K33_BLINK_CMD 0x80
